@@ -1,0 +1,1 @@
+angular.module('wedding-shop-angular', ['angular-meteor', 'ui.router']);
